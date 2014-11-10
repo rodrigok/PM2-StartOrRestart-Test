@@ -1,6 +1,8 @@
 PM2-StartOrRestart-Test
 =======================
 
+## PM2 Version: 0.11.1
+
 Just clone and execute:
 ```shell
 ./test.sh
