@@ -1,0 +1,11 @@
+{
+	"apps": [{
+		"name": "test",
+		"script": "test.js",
+		"out_file": "test.log",
+		"error_file": "test.err.log",
+		"env": {
+			"PM2_TEST_ENV": "VALUE_2"
+		}
+	}]
+}
